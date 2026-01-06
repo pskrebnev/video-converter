@@ -1,5 +1,12 @@
 ## Description:
-Simple video converter from 3gp format to mp4. 
+Simple video converter from 3gp format to mp4.
+
+## Dependency:
+You need to install 'ffmpeg' and add it to 
+1. Download FFmpeg [here the link](https://www.gyan.dev/ffmpeg/builds/)
+2. Unpack it and add to PATH properties (for Windows)
+3. Verify installation with `ffmpeg -version` from console
+4. Control the size from `FFmpegService.kt`
 
 ## How to run:
 1. Open your terminal in the project root.
