@@ -2,7 +2,7 @@
 Simple video converter from 3gp format to mp4.
 
 ## Dependency:
-You need to install 'ffmpeg' and add it to 
+You need to install 'ffmpeg' 
 1. Download FFmpeg [here the link](https://www.gyan.dev/ffmpeg/builds/)
 2. Unpack it and add to PATH properties (for Windows)
 3. Verify installation with `ffmpeg -version` from console
