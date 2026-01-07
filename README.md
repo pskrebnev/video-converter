@@ -23,3 +23,10 @@ I contacted customer support, and they suggested I record a video so their engin
 I recorded it using my mobile phone, but the file turned out to be huge.
 I needed to compress it and convert it to the popular MP4 format.
 
+## Disclaimer:
+This isn't a fully-fledged converter in the strict sense, but rather a web wrapper around FFmpeg.
+You could do the exact same thing via the command line, but I wanted to show off a bit.
+Please don't judge too harshly.
+
+Also... I do not plan on maintaining this project. I built it exclusively for my own needs.
+
